@@ -1,10 +1,7 @@
-3D CSS cubes
+3D Virtual Builder
 =====
-
-A very simple interactive grid in 3d space. Click to drag and rotate the view, add cubes of different colors, and play around.
-
-Nothing to set up -- just open up `index.html` and you're set!
-
-3D effects are pure CSS.
+Project that enables block addition and rotation on a triangular grid. 
 
 ----
+## Notes and Acknowledgements
+The code is developed using JavaScript, HTML and CSS written by Yifei Lin `contact: yifei.lin@uqconnect.edu.au`. Foundation of this project comes from 3d-css-cubes from Christine Cha (https://github.com/christinecha). 
