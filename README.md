@@ -1,4 +1,4 @@
-3D Virtual Builder
+3D Virtual Builder (Not Yet Complete)
 =====
 Project that enables block addition and rotation on a triangular grid. 
 
